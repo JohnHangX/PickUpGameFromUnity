@@ -47,6 +47,14 @@ ModelImporter:
     100082: //RootNode
     100084: Stickman_04
     100086: Stickman_04_0
+    100088: Armature
+    100090: mixamorig:HeadTop_End_end
+    100092: mixamorig:LeftHandIndex4_end
+    100094: mixamorig:LeftHandThumb4_end
+    100096: mixamorig:LeftToe_End_end
+    100098: mixamorig:RightHandIndex4_end
+    100100: mixamorig:RightHandThumb4_end
+    100102: mixamorig:RightToe_End_end
     400000: mixamorig:Head
     400002: mixamorig:HeadTop_End
     400004: mixamorig:Hips
@@ -91,6 +99,14 @@ ModelImporter:
     400082: //RootNode
     400084: Stickman_04
     400086: Stickman_04_0
+    400088: Armature
+    400090: mixamorig:HeadTop_End_end
+    400092: mixamorig:LeftHandIndex4_end
+    400094: mixamorig:LeftHandThumb4_end
+    400096: mixamorig:LeftToe_End_end
+    400098: mixamorig:RightHandIndex4_end
+    400100: mixamorig:RightHandThumb4_end
+    400102: mixamorig:RightToe_End_end
     2100000: No Name
     2300000: Stickman_04
     3300000: Stickman_04
