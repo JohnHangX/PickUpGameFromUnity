@@ -28,7 +28,7 @@
     <Ios>False</Ios>
     <Android>False</Android>
     <Conventional>True</Conventional>
-    <SavePath>F:/LayaProject/PickUpGame/bin/res/3D</SavePath>
+    <SavePath>E:/LayaProject/PickUpGame/bin/res/3D/LayaScene_Main</SavePath>
     <ScrollPositionY>0</ScrollPositionY>
   </config1>
   <config2>
@@ -156,7 +156,7 @@
     <ScrollPositionY>0</ScrollPositionY>
   </config5>
   <language>0</language>
-  <time>1604627422</time>
+  <time>1605061673</time>
   <saveAcount>
   </saveAcount>
   <savePassWorld>
